@@ -1,4 +1,4 @@
-# Generator Numbers Random
+# Random Number Generator
 
 Random Number Generator is a project designed to generate totally random and never equal numbers. You can choose how many numbers to generate.
 
